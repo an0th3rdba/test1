@@ -1,0 +1,1 @@
+{ "max_connections" : "100", "synchronous_commit" : "off", "shared_buffers": "1024" }
